@@ -1,6 +1,6 @@
 ![cf](http://i.imgur.com/7v5ASc8.png) 33: Sorting Algorithms
 ===
-
+[![Build Status](https://travis-ci.org/kgamer007/33-sorting-algorithms.svg?branch=master)](https://travis-ci.org/kgamer007/33-sorting-algorithms)
 ## Three Sorting algorithms:
 
 ### Insertion Sort
